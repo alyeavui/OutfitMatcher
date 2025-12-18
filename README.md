@@ -147,6 +147,7 @@ Potential features for future versions:
 - [ ] AI created images of person with outfits on
 - [ ] iCloud sync across devices
 
+Demo: https://youtu.be/ih0C1Ai8Euw
 ---
 
 **Built with ❤️ for the iOS Development Introduction course**
